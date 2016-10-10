@@ -4,7 +4,7 @@
 Write command examples for maven to run project. Create build profile that will turn on exec plugin. 
 Use property to specify main class.
 
-  $> mvn clean install -P exec-profile
+  ___$> mvn clean install -P exec-profile___
 
 2. Create project with 2 types of test - ITest and simple test. 
 Configure maven to run build without ITests. 
